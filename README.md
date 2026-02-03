@@ -1,5 +1,8 @@
 # Robot para recoger basura 
 
- ## componentes
-  *2 motorreductores
-  *3 servo motores 
+ ## Index
+ ## Description
+ ## proyect Status
+ ## Proyect Funcionality
+ ## Technology Used
+ ## People in charge
